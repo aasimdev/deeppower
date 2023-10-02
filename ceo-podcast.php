@@ -48,7 +48,7 @@ include('header.php'); ?>
         <div class="row">
             <?php
             $filteredCEOPodcast = array_filter($videos, function ($item) {
-                return $item['category'] === 'ceo-podcast';
+                return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
             });
             foreach ($filteredCEOPodcast as $video) {
                 $videoTitle = $video['title'];

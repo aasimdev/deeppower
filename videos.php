@@ -104,7 +104,7 @@ include('header.php'); ?>
         <div class="row">
             <?php
             $filteredCommentaryNews = array_filter($videos, function ($item) {
-                return $item['category'] === 'news-commentary';
+                return $item['category'] === 'news-commentary' && $item['scope'] === 'public';
             });
             $latestCompanyNews = array_slice($filteredCommentaryNews, 0, 3);
 
@@ -138,7 +138,7 @@ include('header.php'); ?>
         <div class="row">
             <?php
             $filteredCEOPodcast = array_filter($videos, function ($item) {
-                return $item['category'] === 'ceo-podcast';
+                return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
             });
             $latestCEOPodcast = array_slice($filteredCEOPodcast, 0, 3);
             function getThumbnailUrl($videoID)
@@ -187,7 +187,7 @@ include('header.php'); ?>
         <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5">
             <?php
             $filteredShortVideos = array_filter($videos, function ($item) {
-                return $item['category'] === 'short-video';
+                return $item['category'] === 'short-video' && $item['scope'] === 'public';
             });
             $latestShortVideos = array_slice($filteredShortVideos, 0, 5);
             foreach ($latestShortVideos as $video) {
