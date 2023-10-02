@@ -1,0 +1,104 @@
+.navbar {
+    padding: 40px 0 30px;
+    background: transparent;
+    width: 100%;
+    z-index: 2;
+
+    .navbar-brand {
+        padding: 0;
+        margin-right: 50px;
+    }
+
+    .navbar-nav {
+        gap: 50px;
+
+        &.rightNav {
+            .nav-link {
+                color: #858585;
+
+                &:hover,
+                &:focus {
+                    color: #858585;
+                }
+            }
+        }
+
+        .nav-link {
+            font-weight: 500;
+            font-size: 13px;
+            line-height: 140%;
+            color: #091113;
+            padding: 0;
+
+            &:hover,
+            &:focus, &.active {
+                color: #091113;
+            }
+        }
+
+    }
+
+}
+
+.navbar-dark .navbar-toggler {
+    color: #fff;
+    border: 0;
+
+    &:focus {
+        outline: 0;
+        box-shadow: none;
+    }
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+}
+
+
+.homeC {
+    .navbar {
+        position: absolute;
+
+        .navbar-nav {
+            .nav-link {
+                color: #ffffff;
+            }
+
+            &.rightNav {
+                .nav-link {
+                    color: #94AEB5;
+                }
+            }
+        }
+    }
+    .tSocial a{
+        color: #ffffff;
+        &:hover{
+            color: #fff;
+        }
+    }
+}
+.invest-bar{
+    position: absolute;
+    background: rgba(0,0,0,0);
+    width: 100%;
+    z-index: 3;
+    padding: 13px 0 0;
+}
+
+.tSocial{
+    text-align: right;
+
+    a {
+        color: #091113;
+    font-size: 20px;
+
+        &:hover {
+            color: #091113;
+        }
+
+        &+a {
+            margin-left: 12px;
+        }
+    }
+}

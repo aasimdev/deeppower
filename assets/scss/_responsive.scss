@@ -1,0 +1,1254 @@
+@media (max-width:1440px) {
+    .banner-content {
+        padding-top: 98px;
+    }
+
+    .bannerText__percentage h2 {
+        font-size: 128px;
+    }
+
+    .banner {
+        .carousel-item {
+            height: 700px;
+
+            img {
+                height: 100%;
+            }
+        }
+    }
+
+    .bannerText__percentage h6 {
+        font-size: 28px;
+    }
+
+    .banner .carousel-indicators {
+        margin-top: 26px;
+    }
+
+    .lvGas__content {
+        margin-left: 50px;
+    }
+
+    .dSection__content {
+        margin-left: 100px;
+        padding-bottom: 0px;
+    }
+
+    .usDepart__content p {
+        margin: 26px auto 45px;
+    }
+
+    .usDepart__content {
+        padding: 42px;
+    }
+
+
+    .lvGas {
+        padding: 20px 0 40px;
+    }
+
+    .usDepart {
+        margin: 90px 40px 20px 40px;
+    }
+
+    .banner .carousel-indicators [data-bs-target] {
+        height: 2px;
+    }
+
+    .marketC__content {
+        padding: 40px;
+        margin-top: -260px;
+    }
+
+    .marketC {
+        padding: 44px 0 90px;
+    }
+
+    .cleanenergy {
+        padding: 90px 23px;
+    }
+
+    .cleanenergy .clean-globe {
+        margin: 70px auto;
+    }
+
+    .marketDrain {
+        padding: 80px 0 56px;
+    }
+
+    .marketDrain {
+        padding: 80px 0 0;
+    }
+
+    .platforms {
+        padding: 70px 0;
+    }
+
+    .techList__wrap {
+        padding: 70px 129px 30px;
+    }
+
+    .techList {
+        background: #091113;
+    }
+
+    .techList__box {
+        position: static;
+        transform: none;
+    }
+
+    .techWords {
+        padding: 40px 23px;
+    }
+
+    .techWords__img img {
+        max-width: 100%;
+    }
+
+    .geothermalSys {
+        padding: 40px 0;
+    }
+
+    .geoStat {
+        padding: 35px 31px 33px 31px;
+    }
+
+    .geothermalStat {
+        padding-bottom: 80px;
+    }
+
+    .mTechnologyc {
+        padding: 44px 0 20px;
+    }
+
+    .newsPage {
+        padding: 50px 0 70px;
+    }
+
+    .geoStat__circleStat {
+        max-width: 145px;
+    }
+
+    .ou-team-members {
+        padding: 0 42px 42px;
+    }
+
+    .newsPage-category {
+        margin: 70px 0;
+    }
+
+    .catlatest {
+        padding-top: 70px;
+    }
+
+    #short-videos {
+        margin-bottom: 70px;
+    }
+
+    .aboutMarket .marketC__content {
+        padding: 40px 0 60px;
+        margin-top: 0;
+    }
+
+    .ou-team {
+        padding-bottom: 70px;
+    }
+
+    .about {
+        padding: 0px 0 70px;
+    }
+
+    .marketC.aboutMarket {
+        padding: 0;
+        margin-bottom: 81px;
+        padding-bottom: 40px;
+    }
+
+    .aboutBanner {
+        padding-bottom: 0;
+    }
+
+    .contact {
+        padding: 64px 0;
+    }
+}
+
+@media (max-width: 1200px) {
+    .usDepart {
+        height: 630px;
+    }
+
+    .ou-team-members {
+        padding: 0 0px 42px;
+    }
+
+    .ou-team-member::after {
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    .ceoMsg {
+        margin-top: 0;
+        margin-bottom: 56px;
+    }
+
+    .lvGas {
+        padding: 18px 0 34px;
+    }
+
+    .enRevolution p {
+        margin-left: 0;
+        margin-top: 31px;
+    }
+
+    .news .row .col-lg-6:last-of-type .newsItem {
+        margin-left: 0;
+    }
+
+    .newsItem {
+        max-width: 100%;
+    }
+
+    .technology .lvGas__content {
+        margin-bottom: 61px;
+    }
+
+    .dSection__box {
+        margin-top: 0;
+        margin-right: 0;
+        margin-left: 47px;
+        margin-bottom: 33px;
+    }
+
+    .dSection__content {
+        margin-left: 0;
+        margin-top: 33px;
+    }
+
+    .usDepart__img {
+        display: none !important;
+    }
+
+    .usDepart {
+        margin: 140px 0 0;
+    }
+
+    .footer-nav {
+        gap: 40px;
+    }
+
+    .navbar-collapse {
+        // background: linear-gradient(180deg, rgba(46, 79, 54, 0.6) 0%, rgba(46, 79, 54, 0.468) 100%);
+        // backdrop-filter: blur(30px);
+        /* Note: backdrop-filter has minimal browser support */
+        background: #001014;
+        position: absolute;
+        top: 82px;
+        width: 100%;
+        // border-radius: 9px;
+        left: 0;
+    }
+
+    .navbar .navbar-nav {
+        gap: 39px;
+        padding: 38px;
+    }
+
+    .bannerText__percentage h2 {
+        font-size: 112px;
+    }
+
+    .banner {
+        .container {
+            position: relative;
+        }
+    }
+
+    .banner-watchbtn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        max-width: 300px;
+    }
+
+    .lvGas__content {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .dSection-opposite .dSection__content {
+        margin-top: 0;
+        margin-bottom: 58px;
+    }
+
+    .navbar .navbar-nav .nav-link,
+    .navbar .navbar-nav .nav-link:hover,
+    .navbar .navbar-nav .nav-link:focus,
+    .navbar .navbar-nav .nav-link.active {
+        color: #fff;
+    }
+
+    .marketC__content {
+        max-width: 600px;
+        margin: -100px auto 0;
+    }
+
+    .markatCPic {
+        padding-left: 0;
+        display: block;
+        margin: 52px auto 0;
+    }
+
+    .theme-heading {
+        flex-direction: column;
+
+        p {
+            margin-left: 0;
+        }
+    }
+
+    .dSection.marketdSection .dSection__content {
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    .pSection__content {
+        max-width: 100%;
+    }
+
+    .platform {
+        height: auto;
+    }
+
+    .platforms {
+        margin: 0;
+        padding: 52px 0 55px;
+
+        .row {
+            &>div {
+                &+div {
+                    .platform {
+                        margin-top: 57px;
+                    }
+                }
+            }
+        }
+    }
+
+    .platforms__heading {
+        padding-bottom: 57px;
+    }
+
+    .techList,
+    .techWords {
+        margin: 0;
+    }
+
+    .techBg {
+        display: none;
+    }
+
+    .techList__wrap {
+        padding: 0;
+        max-width: 100%;
+    }
+
+    .techWords p {
+        max-width: 100%;
+    }
+
+    .geothermalSys .pSection__content {
+        margin-top: 0;
+    }
+
+    .pSection__img {
+        margin-top: 58px;
+    }
+
+    .geothermalStat {
+        .row {
+            &>div {
+                &+div {
+                    .geoStat {
+                        margin-top: 14px;
+                    }
+                }
+            }
+        }
+    }
+
+    .podcastt {
+        .ceoMsg__msg {
+            margin-bottom: 41px;
+        }
+    }
+
+    .podcast-item {
+        margin: auto;
+    }
+
+    .podcast .row>div:nth-child(even) .podcast-item {
+        margin-right: auto;
+    }
+
+    .podcast .row>div:not(:first-child) .podcast-item {
+        margin-top: 90px;
+    }
+
+    .uce-text h3 {
+        font-weight: 200;
+        font-size: 132px;
+    }
+
+    .dt-content-box {
+        max-width: calc(100% - 46px);
+        margin: -75px auto 0;
+    }
+
+    .dt-comprsion-bar {
+        max-width: 100%;
+        margin-left: 0;
+    }
+
+    .dt-comprsion-bars {
+        &>p {
+            margin-bottom: 42px;
+        }
+    }
+
+    .dt-dsection {
+        .dSection__content {
+            max-width: 100%;
+        }
+
+        .dSection__img {
+            position: static;
+        }
+    }
+
+    .dt-dsection .dSection__box {
+        position: absolute;
+        margin: 0;
+        right: 0;
+        top: -110px;
+    }
+
+    .aboutMarket .marketC__content {
+        padding: 100px;
+        margin-top: -310px;
+        background: #1C1D1D;
+    }
+
+    .aboutBanner.pageBanner h1 {
+        font-size: 30px;
+    }
+
+    .aboutMarket {
+        background: #091113;
+        padding-bottom: 54px;
+    }
+
+    .navbar {
+        background: #001014;
+    }
+
+    .homeC .navbar {
+        background: transparent;
+    }
+
+    .ou-team-members {
+        padding: 0 0px 15px;
+        border-bottom: 0;
+    }
+
+    .ou-team-wrap .ou-team-members+.ou-team-members {
+        margin-top: 0;
+        border-bottom: 1px solid #cbcbcb;
+    }
+
+    .ou-team-member {
+        margin-bottom: 30px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .footer-nav {
+        flex-direction: column;
+    }
+
+    .bannerText {
+        max-width: 295px;
+    }
+
+    .bannerText h1 {
+        font-size: 32px;
+    }
+
+    .bannerText p {
+        font-size: 16px;
+    }
+
+    .bannerText__percentage h2 {
+        font-size: 70px;
+    }
+
+    .bannerText__percentage h6 {
+        font-size: 22px;
+    }
+
+    .banner-watchbtn {
+        max-width: 240px;
+    }
+
+    .banner .carousel-item {
+        height: 610px;
+    }
+
+
+    .technology .lvGas__content {
+        max-width: 100%;
+    }
+
+    .pageBanner h1 {
+        font-size: 32px;
+    }
+
+    .page-titleC {
+        top: 58px;
+    }
+
+    .marketC__content {
+        max-width: 460px;
+        margin: -80px auto 0;
+    }
+
+    .cleanenergy {
+        padding: 60px 23px;
+    }
+
+    .cleanenergy .clean-globe {
+        margin: 50px auto;
+    }
+
+    .clean-graph-chart {
+        margin-top: 50px;
+    }
+
+    .newsPage-catPage {
+        flex-direction: column;
+        align-items: baseline;
+        gap: 30px;
+    }
+
+    .uce-text h3 {
+        font-size: 88px;
+    }
+
+    .dt-content-box p {
+        padding: 33px 0;
+    }
+
+    .about-item {
+        flex-direction: column;
+        gap: 59px;
+    }
+
+    .about-item-basic {
+        margin: auto;
+    }
+
+    .contact-form-btn {
+        text-align: center;
+    }
+
+    .ou-team-member {
+        gap: 30px;
+    }
+
+    .ou-team-institue {
+        width: 100%;
+        text-align: left;
+    }
+
+}
+
+@media (max-width: 576px) {
+    .bannerText__percentage h2 span {
+        display: none;
+    }
+
+    .bannerText__percentage {
+        position: relative;
+    }
+
+    .bannerText__percentage h6 {
+        font-weight: 700;
+        font-size: 8px;
+        line-height: 120%;
+        color: #51BA6B;
+        position: absolute;
+        top: 50%;
+        background: #091113;
+        padding: 2px;
+        left: 9px;
+    }
+
+    .bannerText h1 {
+        font-size: 20px;
+    }
+
+    .bannerText {
+        max-width: 170px;
+    }
+
+    .bannerText p {
+        font-size: 11px;
+        margin: 24px 0 0;
+    }
+
+    .mobile-action {
+        text-align: center;
+        margin-top: 16px;
+    }
+
+    .banner-watchbtn {
+        max-width: 180px;
+    }
+
+    .banner .carousel-item {
+        height: 485px;
+    }
+
+    .hlVideo {
+        padding: 43px 0 50px;
+    }
+
+    .hlVideo__content h2 {
+        font-size: 18px;
+    }
+
+    .hnewslesster {
+        padding: 32px 0 45px;
+    }
+
+    .ceoMsg__face {
+        display: none;
+    }
+
+    h2,
+    h3,
+    h4 {
+        font-size: 30px;
+    }
+
+    .hnewslesster form {
+        padding: 23px 14px 20px 17px;
+        border-radius: 9px;
+    }
+
+    .lvGas {
+        margin: 0 22px;
+        padding: 18px 23px 34px;
+    }
+
+    .lvGas__content p {
+        margin: 26px 0 30px;
+    }
+
+    .technology {
+        padding: 50px 0;
+    }
+
+    .subtitle {
+        margin-bottom: 22px;
+    }
+
+    .technology .lvGas__content {
+        margin-top: 0;
+    }
+
+    .technology__box h5 {
+        margin-top: 0;
+    }
+
+    .technology .row .row>div:nth-child(n+3) .technology__box,
+    .technology .row .row>div:not(:first-child) .technology__box {
+        margin-top: 50px;
+    }
+
+    .enRevolution {
+        padding: 55px 0;
+    }
+
+    .enRevolution__energies {
+        margin-top: 34px;
+    }
+
+    .superRock {
+        padding: 55px 0 0;
+
+        h2 {
+            font-size: 18px;
+            margin: 0 auto 50px;
+        }
+    }
+
+    .superRock p:first-of-type {
+        margin-top: 35px;
+    }
+
+    .superRock .theme-btn {
+        margin-top: 48px;
+    }
+
+    .dSection__box {
+        padding: 30px;
+    }
+
+    .dSection__img {
+        max-width: calc(100% - 74px);
+    }
+
+    .dSection {
+        padding: 21px 0 60px;
+    }
+
+    .dSection__content p {
+        margin: 26px 0 36px;
+    }
+
+    .themebg-section {
+        margin: 0 22px;
+        padding: 34px 20px;
+    }
+
+    .technology__boximg {
+        margin-bottom: 40px;
+    }
+
+    .usDepart {
+        margin: 34px 0 25px;
+    }
+
+    .usDepart__content {
+        padding: 0;
+
+        h2 {
+            font-size: 18px;
+        }
+    }
+
+    .news h2 {
+        margin-bottom: 40px;
+    }
+
+    .newsItem {
+        margin-bottom: 54px;
+    }
+
+    .news {
+        padding: 70px 0;
+    }
+
+    footer {
+        background: #091113;
+        padding: 41px 0 35px;
+    }
+
+    .footer-newsletter h4 {
+        font-size: 18px;
+    }
+
+    .footer-newsletter form {
+        border-radius: 9px;
+        padding: 21px 15px;
+    }
+
+    .footer-logo {
+        padding: 38px 0 34px;
+    }
+
+    .footer-nav {
+        gap: 23px;
+        margin-bottom: 42px;
+
+        a {
+            font-size: 15px;
+        }
+    }
+
+    .pageBanner {
+        margin-top: 15px;
+    }
+
+    .pageBanner h1 {
+        font-size: 20px;
+    }
+
+    .marketC__content {
+        padding: 32px 21px;
+        max-width: calc(100% - 30px);
+
+        p {
+            font-size: 14px;
+        }
+    }
+
+    .pageBanner h5 {
+        margin-bottom: 30px;
+    }
+
+    .page-titleC {
+        top: 32px;
+    }
+
+    .marketC__paragraph {
+        margin-top: 53px;
+    }
+
+    .marketC {
+        padding: 44px 0 68px;
+    }
+
+    .cleanenergy {
+        margin: 0;
+        padding: 42px 23px;
+    }
+
+    .dSection.marketdSection .dSection__box {
+        padding: 35px 0 30px;
+
+        h5 {
+            font-size: 12px;
+            margin: 0 30px 12px;
+        }
+    }
+
+    .marketDrain p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+
+    .marketDrain {
+        padding: 58px 0;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .dSection.marketdSection .dSection__content h3 {
+        max-width: 100%;
+    }
+
+    .techQuote__wrap {
+        padding: 22px 43px;
+
+        h6 {
+            font-size: 15px;
+            margin-bottom: 12px;
+        }
+
+        p {
+            font-size: 13px;
+        }
+    }
+
+    .pSection {
+        padding: 55px 0 58px;
+    }
+
+    .pSection__img {
+        margin-top: 30px;
+    }
+
+    .platforms__heading h3 {
+        font-size: 30px;
+    }
+
+    .platforms__heading p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+
+    .platform__faster {
+        flex-direction: column;
+        gap: 24px;
+        align-items: baseline;
+    }
+
+    .platform__fasterText {
+        max-width: 100%;
+    }
+
+    .techList__wrap p {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .energyList li {
+        font-size: 13px;
+    }
+
+    .techWords p {
+        font-size: 15px;
+    }
+
+    .geoStat__title h4,
+    .geoStat__point h5 {
+        font-size: 23px;
+    }
+
+    .geoStat {
+        padding: 20px 27px;
+    }
+
+    .geoStat__title p,
+    .geoStat__point span {
+        font-size: 11px;
+    }
+
+    .geoStat__points {
+        margin-top: 37px;
+    }
+
+    .geoStat__points .geoStat__point+.geoStat__point {
+        margin-top: 0px;
+    }
+
+    .geoStat__circleStat {
+        max-width: 110px;
+        top: 21px;
+        right: 19px;
+    }
+
+    .geoStat__wells {
+        padding-right: 10px;
+    }
+
+    .geoStat__leases {
+        padding-left: 10px;
+    }
+
+    .geoStat__map {
+        max-width: 66px;
+    }
+
+    .geoStat__point {
+        max-width: 89px;
+    }
+
+    .geothermalStat {
+        padding-bottom: 55px;
+    }
+
+    .newsPage {
+        padding: 20px 0 65px;
+    }
+
+    .newsPage-title {
+        font-size: 40px;
+    }
+
+    .newsPage-category {
+        margin: 45px 0 57px;
+
+        h2 {
+            font-size: 16px;
+        }
+    }
+
+    .newsArchiveBtn {
+        margin-top: 53px;
+        text-align: center;
+    }
+
+    .news-detail {
+        padding: 38px 0 58px;
+    }
+
+
+    .news-detail h1 {
+        margin-bottom: 43px;
+        font-size: 30px;
+    }
+
+    .news-detail-info {
+        .newsItem {
+            margin-bottom: 0;
+        }
+    }
+
+    .news-moreinfo {
+        padding-bottom: 0;
+    }
+
+    .news-about {
+        margin-top: 41px;
+    }
+
+    .news-about h4 {
+        font-size: 16px;
+    }
+
+    .podcast-people-face {
+        width: 86px;
+        height: 59px;
+        margin: 0 auto 7px;
+    }
+
+
+
+    .podcast .row>div:not(:first-child) .podcast-item,
+    .podcast .row>div:not(:first-child):not(:nth-child(2)) .podcast-item {
+        margin-top: 40px;
+    }
+
+    .podcast-single {
+        gap: 12px;
+
+        img {
+            max-width: 200px;
+        }
+    }
+
+    .podcast-item.podcastsingle .podcast-item-thumbnail {
+        padding: 51px 13px 13px;
+    }
+
+    .podcast-detail {
+        padding: 38px 0;
+    }
+
+    .podcast-detail h1 {
+        font-size: 30px;
+    }
+
+    .podcast-detail p {
+        margin: 25px 0 59px;
+    }
+
+    .podcast-video iframe {
+        height: 260px;
+    }
+
+    .newsPage-catPage {
+        margin-bottom: 81px;
+    }
+
+    .pp-drill-tech-thumbnail {
+        margin: 28px 0;
+    }
+
+    .dt-comprsion-bar h5 {
+        font-size: 36px;
+    }
+
+    .dt-comprsion-bar p {
+        font-size: 14px;
+    }
+
+    .dt-comprsion-bar {
+        padding: 24px;
+    }
+
+    .dt-dsection .dSection__box h3 {
+        font-size: 30px;
+    }
+
+    .dt-dsection .dSection__box {
+        padding: 35px 57px;
+        top: -68px;
+        max-width: 245px;
+
+    }
+
+    .dt-dsection .dSection__img {
+        max-width: 291px;
+    }
+
+    .dt-comprsion-institute {
+        margin-top: 43px;
+        margin-left: 23px;
+
+    }
+
+    .dt-comprsion {
+        padding: 84px 0 120px;
+    }
+
+    .uce-text h3 {
+        font-size: 58px;
+    }
+
+    .uce {
+        overflow: hidden;
+    }
+
+    .uce .uce-2 {
+        right: -106px;
+        top: 65px;
+    }
+
+    .uce .uce-1 {
+        left: -68px;
+        top: 400px;
+    }
+
+    .uce .uce-3 {
+        bottom: 140px;
+        right: 0;
+        width: 72px;
+    }
+
+    .uce-text p {
+        font-size: 28px;
+        display: none;
+    }
+
+    .uce-wrap {
+        padding: 233px 0 350px;
+    }
+
+    .pp-drill-tech p {
+        font-size: 14px;
+    }
+
+    .pp-drill-tech {
+        h2 {
+            font-size: 18px;
+        }
+    }
+
+    .aboutBanner.pageBanner h1 {
+        font-size: 20px;
+    }
+
+    .aboutBanner {
+        margin-top: 0;
+    }
+
+    .aboutMarket .marketC__content {
+        padding: 33px 21px;
+        margin-top: -40px;
+    }
+
+    .about {
+        padding: 59px 0 114px;
+    }
+
+    .investor h1 {
+        font-weight: 400;
+        font-size: 30px;
+    }
+
+    .contact {
+        padding: 25px 0 95px;
+    }
+
+    .contact-title h1 {
+        font-size: 30px;
+    }
+
+    .dsection-img-hide {
+        padding-bottom: 0;
+
+        .dSection__box {
+            margin: 0 0 36px;
+        }
+    }
+
+    .dp-carousel-content p {
+        font-size: 15px;
+    }
+
+    .dp-carousel-content p+p {
+        margin-top: 24px;
+    }
+
+    .videocat-box span {
+        font-size: 34px;
+        line-height: 1;
+        min-height: 90px;
+    }
+
+    .catlatest-heading h2 {
+        font-size: 28px;
+    }
+
+    .catlatest-heading a {
+        color: #091113;
+        font-size: 14px;
+    }
+
+    .catlatest-heading {
+        align-items: end;
+        margin-bottom: 32px;
+    }
+
+    .catlatest {
+        padding-top: 50px;
+    }
+
+    .catlatest-item h4 {
+        font-size: 18px;
+    }
+
+    .catlatest-item {
+        margin-bottom: 40px;
+    }
+
+    .videoTSingle h3 {
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+    .videoTSingle-face {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .videoTSingle {
+        margin-bottom: 75px;
+    }
+
+    .usDepart {
+        background: none;
+        height: auto;
+    }
+
+    .ou-team-member-img {
+        margin-bottom: 16px;
+    }
+
+    .ou-team-basic {
+        width: 160px;
+        flex: 0 0 auto;
+    }
+
+    .ou-team-member {
+        gap: 16px;
+    }
+
+    .ou-logo {
+        margin-top: 60px;
+    }
+
+    .ou-team {
+        padding-bottom: 80px;
+    }
+
+    .banner .carousel-item img {
+        object-fit: cover;
+    }
+
+    .mediaNevent h4 {
+        color: #030303;
+        font-size: 18px;
+    }
+    .mediaNevent{
+        margin-bottom: 40px;
+    }
+}

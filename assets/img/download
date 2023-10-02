@@ -1,0 +1,112 @@
+<?php
+$GLOBALS['title'] = "NewHydrogen | Developing a Breakthrough Green Hydrogen Generator";
+$GLOBALS['desc'] = "";
+$GLOBALS['keywords'] = "";
+include('header.php'); ?>
+
+<div id="fullpage">
+    <div class="section sectionclass1" id="section0" style="background: url(./assets/images/slide1.jpg); background-size: cover;    background-position: right;">
+        <div class="innercontent_secx">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-lg-center">
+                        <h1>A Breakthrough Technology to <br />Produce Low-Cost Green Hydrogen</h1>
+                    </div>
+                    <div class="col-lg-5">
+                        <h2></h2>
+                        <p>NewHydrogen is developing a breakthrough green hydrogen generator that uses renewable
+                            energy and water to produce low-cost green hydrogen.</p> <a href="#" class="loadmorebtn1  cmnbtn">Learn More</a>
+                    </div>
+                    <div class="col-lg-7"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section sectionclass2" id="section0" style="background: url(./assets/images/slide2-1.jpg); background-size: cover; background-position: center;">
+        <div class="innercontent_secx">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7"></div>
+                    <div class="col-lg-5">
+                        <h2>Hydrogen is the Cleanest and Most Abundant Fuel in the Universe</h2>
+                        <p>It is zero-emission and only produces water vapor when used. Unfortunately, hydrogen
+                            does not exist in its pure form on Earth so it must be extracted from a source that
+                            contains hydrogen.</p> <a href="#" class="loadmorebtn2  cmnbtn">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section sectionclass3" id="section0" style="background: url(./assets/images/slide3.jpg); background-size: cover; background-position:  center ;">
+        <div class="innercontent_secx">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <h2>Scientists Have Long Known How to Extract Hydrogen from Water</h2>
+                        <p>A simple and elegant device called an electrolyzer can be used to split water into
+                            hydrogen and oxygen. Unfortunately, an electrolyzer – the primary component in a
+                            hydrogen generator – is still very expensive. Some rely on rare earth materials such
+                            as platinum and iridium – literally stardust found only in asteroids. These
+                            materials account for nearly 50% of the cost of certain modern electrolyzers.</p> <a href="#" class="loadmorebtn3  cmnbtn">Learn More</a>
+                    </div>
+                    <div class="col-lg-7"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section sectionclass4" id="section0" style="background: url(./assets/images/slide4.jpg); background-size: cover;   background-position: center ; ">
+        <div class="innercontent_secx">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7"></div>
+                    <div class="col-lg-5">
+                        <h2>Breakthrough Technologies</h2>
+                        <p>NewHydrogen is developing breakthrough technologies to enable the next generation of
+                            electrolyzers. Our initial focus is on replacing and reducing expensive rare earth
+                            materials through our ongoing Sponsored Research at UCLA, to help usher in the green hydrogen economy that Goldman Sachs estimated
+                            to have a future market value of $12 trillion.</p> <a href="#" class="loadmorebtn4 cmnbtn">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section section_other" id="section0">
+        <div class="latest_news">
+            <div class="container">
+                <div class="row mb-4">
+                    <div class="col-lg-9 col-md-8 col-7">
+                        <h2>Latest News</h2>
+                    </div>
+                    <div class="col-lg-3  col-md-4  col-5 displnonemobile text-lg-right"> <a href="news.php" class="btn">View All</a></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul>
+                            <li>
+                                <div class="news_list">
+                                    <a href="newhydrogen-promotes-steven-hill-to-chief-executive-officer.php">
+                                        <h4>NewHydrogen Promotes Steven Hill to Chief Executive Officer</h4>
+                                    </a> <span class="date">16 June 2023</span>
+                                    <p>SANTA CLARITA, Calif. (June 16, 2023) — NewHydrogen, Inc. (OTC:NEWH), the developer of a breakthrough technology to produce low-cost green hydrogen [&hellip;]</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="news_list">
+                                    <a href="newHydrogen-vp-featured-in-altenergymag-com.php">
+                                        <h4>NewHydrogen VP Featured in AltEnergyMag.com</h4>
+                                    </a> <span class="date">08 May 2023</span>
+                                    <p>Steve Hill comments on the Company’s breakthrough technology to produce low-cost green hydrogen using renewable energy and water [&hellip;]</p>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="dispmobileonly"> <a href="/news.php" class="btn">View All</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section section_other sectionfooter" id="section0">
+        <?php
+        include('footer.php'); ?>
+    </div>
+</div>
