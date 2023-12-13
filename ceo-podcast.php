@@ -51,13 +51,6 @@ include('header.php'); ?>
                 return $item['category'] === 'ceo-podcast' && $item['scope'] === 'public';
             });
             foreach ($filteredCEOPodcast as $video) {
-                $videoTitle = $video['title'];
-                $videoID = $video['videoID'];
-                $show = true;
-                if (stripos($videoTitle, "Konstantine Anthony") !== false) {
-                    $show = false;
-                }
-                if ($show) {
                     echo "<div class=\"col-lg-4\">
                 <div class=\"podcast-item\">
                     <div class=\"podcast-item-thumbnail\"><img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
@@ -67,10 +60,13 @@ include('header.php'); ?>
                     <path d='M38 32.5L27 39L27 26L38 32.5Z' fill='black'/>
                 </svg>
                     </a></div>
-                    <h2>{$video['date']} - {$video['title']}</h2>
+                    ";
+
+            $title = isset($video['date']) && !empty($video['date']) ? "{$video['date']} - {$video['title']}" : $video['title'];
+
+            echo "<h2>{$title}</h2>
                 </div>
                 </div>";
-                }
             }
             ?>
         </div>

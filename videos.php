@@ -65,7 +65,7 @@ include('header.php'); ?>
                 <div class="videocat-box">
                     <a href="#ceo-podcast">
                         <div class="videocat-bg">
-                            <img src="./assets/img/cat-bg.png" alt="cat">
+                            <img src="./assets/img/cat-bg.png" class="w-100 d-block" alt="cat">
                         </div>
                         <span>CEO Podcast</span>
                     </a>
@@ -75,7 +75,7 @@ include('header.php'); ?>
                 <div class="videocat-box">
                     <a href="#news-commentary">
                         <div class="videocat-bg">
-                            <img src="./assets/img/cat-bg.png" alt="cat">
+                            <img src="./assets/img/cat-bg.png" class="w-100 d-block" alt="cat">
                         </div>
                         <span>News <br> Commentary</span>
                     </a>
@@ -85,7 +85,7 @@ include('header.php'); ?>
                 <div class="videocat-box">
                     <a href="#short-videos">
                         <div class="videocat-bg">
-                            <img src="./assets/img/cat-bg.png" alt="cat">
+                            <img src="./assets/img/cat-bg.png" class="w-100 d-block" alt="cat">
                         </div>
                         <span>Short Videos</span>
                     </a>
@@ -150,13 +150,6 @@ include('header.php'); ?>
                 }
             }
             foreach ($latestCEOPodcast as $video) {
-                $videoTitle = $video['title'];
-                $videoID = $video['videoID'];
-                $show = true;
-                if (stripos($videoTitle, "Konstantine Anthony") !== false) {
-                    $show = false;
-                }
-                if ($show) {
                     echo "<div class=\"col-lg-4\">
                 <div class=\"catlatest-item\">
                     <div class=\"catlatest-thumbnail\">
@@ -172,7 +165,6 @@ include('header.php'); ?>
                 </div>
             </div>";
                 }
-            }
             ?>
         </div>
     </div>

@@ -121,13 +121,7 @@ include('header.php'); ?>
 <div class="slideshow js-slideshow">
     <?php
     foreach ($videos as $video) {
-        $videoTitle = $video['title'];
-        $videoID = $video['videoID'];
-        $show = true;
-        if (stripos($videoTitle, "Konstantine Anthony") !== false) {
-            $show = false;
-        }
-        if (in_array($video['category'], ['news-commentary', 'ceo-podcast']) && $show) {
+        if (in_array($video['category'], ['news-commentary', 'ceo-podcast'])) {
             echo "<div class=\"slide\">
                 <div class=\"podcast-item\">
                     <div class=\"podcast-item-thumbnail\"><img src=\"//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"Thumbnail\">
@@ -349,7 +343,7 @@ include('header.php'); ?>
 
 <section class="superRock">
     <div class="container">
-        <h2>Superhot rock energy provides potential to address both climate change</h2>
+        <h2>Superhot rock energy provides potential to address both climate change and energy security</h2>
         <img src="./assets/img/rock.jpg" alt="rock">
         <p>As COP27 approaches amidst a global energy crisis and world leaders turn their focus to addressing both energy security and climate change, a new report from Clean Air Task Force (CATF) details a potentially groundbreaking tool to manage both: superhot rock energy.</p>
         <p>A form of advanced geothermal energy that uses innovative deep drilling techniques, superhot rock energy has the potential to provide abundant, always available, renewable, cost-competitive, carbon-free energy virtually everywhere on Earth — all with a land-use footprint much smaller than that of other energy sources.</p>

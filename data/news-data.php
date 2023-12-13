@@ -3,6 +3,136 @@
 
 $news = [
     [
+        'id' => "92",
+        'title' => "DeepPower CEO Andrew Van Noy Discusses Clean Energy and Non-Partisan Politics with Nebraska State Senator ",
+        'date' => "November 16, 2023",
+        'excerpt' => "DeepPower, Inc., the developer of a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent Company podcast CEO Andrew Van Noy spoke with Carol Blood, twice-elected Nebraska State Senator […]
+        ",
+        'description' => [
+            [
+                "<p>
+                Senator Carol Blood discusses how data driven decision making can cut through party politics and create positive energy solutions for Nebraska citizens 
+                <p>"
+            ],
+            [
+                "<p> LEHI, Utah, November 16, 2023 (GLOBE NEWSWIRE) — DeepPower, Inc., the developer of a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent Company podcast CEO Andrew Van Noy spoke with Carol Blood, twice-elected Nebraska State Senator.   <p>"
+            ],
+            [
+                "<p>Senator Blood grew up as a farm girl in Nebraska and takes a small-town approach to making her constituent’s lives better. In the podcast, she discussed how at the local coffee shop, farmers talking with their friends don’t say “how will the republicans or democrats make our lives better”, but rather, “how will Jim H. reduce the cost of our fuel for our tractors?.” In Senator Blood’s words, “It isn’t the Republican way, it isn’t the Democrat way, it is the Nebraska way.”  
+                <p>"
+            ],
+            [
+                "<p>The podcast discussion highlights how agriculture drives the economy in Nebraska, and drives the state economy. Nebraska farmers are the first and best environmentalists in Nebraska and don’t like being told what to do.  <p>"
+            ],
+            [
+                "<p>Senator Blood commented “Our job as politicians is to educate, make funding available, and help make sure we accelerate responsible climate action. As opposed to making emotionally charged decisions about key issues, I make it a priority to provide data-driven results.”   <p>"
+            ],
+            [
+                "<p>The discussion continued to highlight how when incentivized, farmers are willing to try new technologies to reduce fuel costs such as crop waste biofuel production. In addition, Senator Blood mentioned how Nebraska was a leader in the conversion of corn into ethanol.   <p>"
+            ],
+            [
+                "<p>Senator Blood continued, “Farmers and lawmakers are constantly looking to improve soil health. We have a nitrate problem in Nebraska, in both the soil and the water. We have a high rate of childhood cancer because of these nitrates.” Finding sustainable solutions to these problems is imperative to local citizens.      <p>"
+            ],
+            [
+                "<p>Senator Blood mentioned how Nebraska is unique among U.S. states in that it is the only state with an entirely publicly owned utility system. The state's publicly owned utility, the Omaha Public Power District, provides electricity to many communities in Nebraska. These PPDs are operated by local governments or publicly elected boards, and their primary focus is to provide reliable and affordable electricity to their customers.   <p>"
+            ],
+            [
+                "<p>The Omaha Public Power District has a goal to be net zero with their carbon use by 2050. This opens opportunities for alternative energy sources such as geothermal to be used in the efforts to reach those goals.  <p>"
+            ],
+            [
+                "<p>“It was a pleasure speaking with Senator Blood in this Podcast,” commented Andrew Van Noy, CEO of DeepPower. “I appreciated how she focuses more on her constituents than party platform, and how she uses a data-driven decision approach to help her in the type of legislation she supports. It is clear that she is forward-thinking and wants to help local Nebraskans find the cleanest and most affordable source of energy to help them in their daily lives. I look forward to staying in touch with her and following her legislation.”  <p>"
+            ],
+            [
+                "<p>This podcast can be viewed at <a href=\" https://deeppower.com/single-video.php?id=KNZ6W1TP3zE\" target=\"_balnk\"> https://deeppower.com/single-video.php?id=KNZ6W1TP3zE</a>
+                <p>"
+            ]
+        ],
+        'category' => "company"
+    ],
+    [
+        'id' => "91",
+        'title' => "DeepPower CEO Andrew Van Noy Discusses Energy Independence and Community Owned Power Generation with Mayor of Burbank, CA",
+        'date' => "November 1, 2023",
+        'excerpt' => "DeepPower, Inc., the developer of a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent Company podcast CEO Andrew Van Noy spoke with Konstantine Anthony, Mayor of Burbank, California. In 2020, Mayor Anthony finished his race with a record-breaking vote count and became the first openly autistic elected official west of the Mississippi River […]
+        ",
+        'description' => [
+            [
+                "<p>
+                Mayor Konstantine Anthony discusses the benefits of having a community owned power production facility and the need for alternative energy options in the goal of becoming carbon free by 2045  
+                <p>"
+            ],
+            [
+                "<p> 
+
+                LEHI, Utah, November 1, 2023 (GLOBE NEWSWIRE) — DeepPower, Inc., the developer of a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent Company podcast CEO Andrew Van Noy spoke with Konstantine Anthony, Mayor of Burbank, California. In 2020, Mayor Anthony finished his race with a record-breaking vote count and became the first openly autistic elected official west of the Mississippi River.  <p>"
+            ],
+            [
+                "<p>During the conversation, Mayor Anthony discussed the benefits of having a community-owned power plant, such as the Burbank Magnolia Power Project, and how that allows the City Council and not corporations, to determine rates on behalf of its citizens.  
+                <p>"
+            ],
+            [
+                "<p>The discussion highlighted how the 323-megawatt Magnolia Power Project is a natural gas-fired combined-cycle electrical power generating facility, and while it powers a majority of the city’s power needs, it still doesn’t meet the carbon zero goals the state has mandated by 2045.<p>"
+            ],
+            [
+                "<p>In light of the state’s mandated goals of carbon neutrality, Mayor Anthony discussed the challenges that cities such as Burbank face to financially be able to fund efforts to replace existing power production for cleaner and greener energy production when there aren’t many available options. Mayor Anthony commented “if we are the only one’s doing it, we might be able to reach that successfully, but with the state mandate we are now seeing a huge number of other local municipalities competing for the same resources” which he said then increases the costs of those resources which then makes it difficult for cities to afford it.  <p>"
+            ],
+            [
+                "<p>Mayor Anthony continued, “Mandating that municipalities must move to green energy without providing that green energy seems a little backwards, however I think we can get there eventually.” <p>"
+            ],
+            [
+                "<p>Mayor Anthony is a big proponent for solar installations that can provide the city cleaner energy sources and was also very intrigued to hear about the potential for geothermal energy and the amount of geographical footprint it can save.   <p>"
+            ],
+            [
+                "<p>This podcast can be viewed at <a href=\" https://deeppower.com/single-video.php?id=0FngluihQ68  \" target=\"_balnk\"> https://deeppower.com/single-video.php?id=0FngluihQ68  </a>
+                <p>"
+            ]
+        ],
+        'category' => "company"
+    ],
+    [
+        'id' => "90",
+        'title' => "DeepPower CEO Andrew Van Noy Discusses Geothermal Growth with the CEO of the International Geothermal Association",
+        'date' => "October 11, 2023",
+        'excerpt' => "DeepPower, Inc., the developer of a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent Company podcast CEO Andrew Van Noy spoke with the CEO of the International Geothermal Association (IGA) Dr. Marit Brommer about geothermal energy the advancements the industry has experienced over the past 6 years […]
+        ",
+        'description' => [
+            [
+                "<p>
+                Dr. Marit Brommer describes the pace at which the geothermal energy industry has advanced over the past 6 years 
+                <p>"
+            ],
+            [
+                "<p> 
+
+                LEHI, Utah, October 11, 2023 (GLOBE NEWSWIRE) — DeepPower, Inc., the developer of a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent Company podcast CEO Andrew Van Noy spoke with the CEO of the International Geothermal Association (IGA) Dr. Marit Brommer about geothermal energy the advancements the industry has experienced over the past 6 years.  <p>"
+            ],
+            [
+                "<p>During the conversation, Dr. Brommer reported that when she was appointed CEO of the IGA 6 years ago, geothermal was a “nice” and interesting technology that had small-scale impact without a “global voice”. Fast forward 5 years, the industry has changed drastically and with the global directives to become carbon neutral, the industry has seen great technological progress. This focused narrative to become less dependent on fossil fuels has allowed the IGA to bring together players throughout the industry and act as a collective voice. 
+                <p>"
+            ],
+            [
+                "<p>Dr. Brommer commented, “We need to enhance the narrative and make sure we get the narrative and messaging right when it comes to educating lawmakers and the general public about the value of geothermal energy and how it can replace fossil fuels as a consistent baseload power generation opportunity.”  <p>"
+            ],
+            [
+                "<p>Dr. Brommer continued, “Not only do we need to constantly subsidize and get funding for new tech for innovation, which without innovation we will hit a dead end, but we also need to build an ecosystem… to develop and build out the geothermal industry from within and to educate politicians from without.”  <p>"
+            ],
+            [
+                "<p>The International Geothermal Association (IGA) is the leading global platform on geothermal energy. With its four pillars Visibility, Sustainability, Partnerships and Authority, it is committed to push geothermal as a gamechanger for achieving Sustainable Development Goal #7 which is providing affordable, clean, baseload energy for all. <p>"
+            ],
+            [
+                "<p>The IGA connects the Global Geothermal Community, serving as a hub for networking opportunities aimed at promoting and supporting global geothermal development. With industry partners the IGA sets standards, matures the technology agenda and nurtures entrepreneurs engaged in clean technology.  <p>"
+            ],
+            [
+                "<p>Dr. Brommer has served as CEO of the IGA for the past 6 years. Prior to this role, she was an E&P Technologist at Shell, and Exploration and Production Geologist at Total E&P Netherlands, and a Team Leader and International Account Manager at Royal Haskoning. She received her PhD from Delft University of Technology in the Netherlands. <p>"
+            ],
+            [
+                "<p>This podcast can be viewed at <a href=\" https://deeppower.com/single-video.php?id=K3MDKXXujNw \" target=\"_balnk\"> https://deeppower.com/single-video.php?id=K3MDKXXujNw </a>
+                <p>"
+            ]
+        ],
+        'category' => "company"
+    ],
+    [
         'id' => "89",
         'title' => "DeepPower CEO Andrew Van Noy Discusses the Need for Geothermal Energy with Industry Expert",
         'date' => "September 22, 2023",
