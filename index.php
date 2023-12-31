@@ -28,12 +28,7 @@ include('header.php'); ?>
                 <div class="col-lg-6">
                     <div class="bannerText">
                         <h1>Unlimited Clean Energy Below Our Feet</h1>
-                        <p>DeepPower
-                            is developing a
-                            breakthrough geothermal drilling
-                            technology to access the Earth’s
-                            unlimited source of clean heat
-                            energy.</p>
+                        <p>DeepPower is developing XDrill<sup>TM</sup>, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean heat energy, which can be used to produce unlimited, low-cost, green electricity anywhere in the world. </p>
                         <a href="deeppower-drilling-technology.php" class="theme-btn d-none d-sm-inline-flex">
                             <span>Learn More</span>
                             <svg width="10" height="25" viewBox="0 0 10 25" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -87,8 +82,7 @@ include('header.php'); ?>
                 humanity for 2 million years. </p>
             <p>Current state-of-the-art drilling technology cannot drill
                 deep enough to make geothermal cost effective at a
-                global scale. We are developing a suite of
-                breakthrough drilling technologies to boldly go where
+                global scale. We are developing XDrill<sup>TM</sup> a breakthrough drilling technology to boldly go where
                 no humans have gone before. The deeper we go the
                 more heat energy we can unleash.</p>
             <p> Unlike large area solar and wind farms, a 9-inch hole
@@ -96,7 +90,7 @@ include('header.php'); ?>
                 power as 320 acres of solar panels. By plugging into
                 this power deep within the Earth, we aim to provide
                 direct access to an unlimited source of constant heat
-                energy which can be used to produce low-cost green
+                energy which can be used to produce unlimited low-cost green
                 electricity anywhere in the world.</p>
         </div>
     </div>
