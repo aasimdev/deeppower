@@ -23,7 +23,13 @@ $videos = [
         'scope' => "public"
     ],
   
-
+    [
+        'title' => "Mayor Nathan Robertson - Ely Nevada",
+        'videoID' => "Pb62c3rHkF8",
+        'date' => "December 22, 2023",
+        'category' => "ceo-podcast",
+        'scope' => "private"
+    ],
     [
         'title' => "Senator Carol Blood - Nebraska",
         'videoID' => "KNZ6W1TP3zE",
@@ -150,6 +156,91 @@ $videos = [
         'videoID' => "ceOF4U_PUZY",
         'date' => "Aug 2, 2023",
         'category' => "news-commentary",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Saving green by going green!",
+        'videoID' => "D6Z8Jc65puU",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Global power on a local scale!",
+        'videoID' => "v3ULfwozqh4",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "One Drill at a Time....",
+        'videoID' => "dPg19p0HGG8",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "This is a cost-saving superhero you may not have heard of!",
+        'videoID' => "fOMJWhYAYL0",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We're saving green by going green!",
+        'videoID' => "3EpwZp7X54w",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The triple threat to fossil fuels!",
+        'videoID' => "lnd-vCfgYXI",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cost-effective and consistent, geothermal's reliable renewable energy",
+        'videoID' => "yH2S4nDRn6A",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The gift that keeps on giving",
+        'videoID' => "A763tifjl-k",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Cost-effective and consistent",
+        'videoID' => "qyIkovMChxs",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Coal is not (always) the enemy!",
+        'videoID' => "wcRxENxR2pM",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Today's News: 18 Million Tons of Lithium Found in California",
+        'videoID' => "hPtPsYAxOTA",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "This Utah County had a 700% Tax Increase. Here is why.",
+        'videoID' => "H8jFJWLVasY",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "America Needs More Miners",
+        'videoID' => "u0al4glHB8I",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    
+    [
+        'title' => "California's Sea of White Gold",
+        'videoID' => "JjkfdgBqISU",
+        'category' => "short-video",
         'scope' => "public"
     ],
     [
@@ -413,7 +504,7 @@ $videos = [
     ],
     [
         'title' => "What kind of effect will this have on the residents of California? ",
-        'videoID' => "lnonUZush8",
+        'videoID' => "-lnonUZush8",
         'category' => "short-video",
         'scope' => "public"
     ],
@@ -797,18 +888,6 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Unpredictable Energy Sources",
-        'videoID' => "8_br62iI1lE",
-        'category' => "short-video",
-        'scope' => "public"
-    ],
-    [
-        'title' => "Why Does Base Load Power Matter?",
-        'videoID' => "hdPpKeJONJE",
-        'category' => "short-video",
-        'scope' => "public"
-    ],
-    [
         'title' => "The Inexcusable Power Failure of the Texas Winter Storm",
         'videoID' => "n5dzF_Rkb5A",
         'category' => "short-video",
@@ -817,12 +896,6 @@ $videos = [
     [
         'title' => "We're cracking code while cracking through rock!",
         'videoID' => "oNZEADKN7kk",
-        'category' => "short-video",
-        'scope' => "public"
-    ],
-    [
-        'title' => "The world of sustainable energy is changing rapidly every day.",
-        'videoID' => "7itpMZF5yOE",
         'category' => "short-video",
         'scope' => "public"
     ],
@@ -943,12 +1016,6 @@ $videos = [
     [
         'title' => "Everything Takes Time",
         'videoID' => "c_kqZYehwXU",
-        'category' => "short-video",
-        'scope' => "public"
-    ],
-    [
-        'title' => "Why Energy Independence is Important",
-        'videoID' => "WWFx3SpC2Yw",
         'category' => "short-video",
         'scope' => "public"
     ],
