@@ -159,6 +159,58 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Affordable Energy Made Easy",
+        'videoID' => "xR5tg0Pnuu4",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Sustainable, Efficient, Affordable",
+        'videoID' => "xmV93iI9Ld8",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Underground Around the World",
+        'videoID' => "D9KH5DUs2ig",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Unlocking the heat of the earth's core!",
+        'videoID' => "rGtzeNIaJdE",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Saving money and the earth! by deeppower",
+        'videoID' => "cgY3IAJD3T8",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The cheaper alternative....",
+        'videoID' => "3zQhEf9pXhs",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Power from down deep!",
+        'videoID' => "NgMnur47Hr0",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+  
+   
+   
+  
+    
+  
+ 
+
+
+
+    [
         'title' => "Saving green by going green!",
         'videoID' => "D6Z8Jc65puU",
         'category' => "short-video",
