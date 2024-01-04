@@ -183,7 +183,7 @@ $videos = [
         'scope' => "public"
     ],
     [
-        'title' => "Saving money and the earth! by deeppower",
+        'title' => "Saving money and the earth!",
         'videoID' => "cgY3IAJD3T8",
         'category' => "short-video",
         'scope' => "public"
