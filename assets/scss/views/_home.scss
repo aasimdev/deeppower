@@ -123,16 +123,20 @@
 
 .hnewslesster {
     padding: 80px 0;
-    #mc_embed_signup form{
+
+    #mc_embed_signup form {
         margin-left: auto !important;
     }
-    #mce-responses{
+
+    #mce-responses {
         max-width: 696px;
     }
-    #mc_embed_signup div#mce-responses{
+
+    #mc_embed_signup div#mce-responses {
         margin-left: auto !important;
         float: none;
     }
+
     form {
         border: 1px solid #CBCBCB;
         border-radius: 20px;
@@ -2158,11 +2162,13 @@
     margin: 4px 0 0 !important;
     border-radius: 10px !important;
 }
-#mc_embed_signup div#mce-responses{
+
+#mc_embed_signup div#mce-responses {
     width: 100% !important;
     margin: 0 !important;
     padding: 0 0 0 32px !important;
 }
+
 #mc_embed_signup #mce-success-response {
     color: #37b970 !important;
 }
@@ -2172,8 +2178,8 @@
     text-align: left;
 }
 
-.mediaNevent{
-    h4{
+.mediaNevent {
+    h4 {
         color: #030303;
         font-size: 20px;
         font-style: normal;
@@ -2183,25 +2189,51 @@
     }
 }
 
-#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error{
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
     display: none !important;
 }
+
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
     border-left: 0 !important;
     border-right: 0 !important;
 }
 
-.nEventLinks{
+.nEventLinks {
     display: flex;
     flex-direction: column;
     gap: 36px;
     margin-top: 18px;
-    a{
+
+    a {
         color: #030303;
         font-size: 20px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
         // text-decoration: underline;
+    }
+}
+
+.pp-content {
+    margin-top: 60px;
+
+    h5 {
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 120%;
+        color: #091113;
+        margin-top: 24px;
+        margin-bottom: 16px;
+    }
+    h6 {
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 120%;
+        color: #091113;
+        margin-top: 24px;
+        margin-bottom: 16px;
+    }
+    p {
+        margin-bottom: 12px;
     }
 }

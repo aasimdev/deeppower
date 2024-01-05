@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/nqltfh0ciotm/public_html
+    - export DEPLOYPATH=/home/nqltfh0ciotm/staging.deeppower.com
     - /bin/cp * $DEPLOYPATH
