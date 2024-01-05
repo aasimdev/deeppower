@@ -76,3 +76,15 @@ footer {
         color: #FFFFFF;
     }
 }
+.footer-colinks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+    a{
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 140%;
+        color: #FFFFFF;
+    }
+}
