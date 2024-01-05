@@ -777,13 +777,16 @@
 
     .footer-nav {
         gap: 23px;
-        margin-bottom: 42px;
+        margin-bottom: 23px;
 
         a {
             font-size: 15px;
         }
     }
-
+    .footer-colinks{
+        gap: 23px;
+        flex-direction: column-reverse;
+    }
     .pageBanner {
         margin-top: 15px;
     }
