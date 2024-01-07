@@ -6,7 +6,6 @@ $(function () {
             if (pathname === "/" && pathname === "index.php" && pathname === "" && pathname === "investors.php" && pathname === "about-us") {
                 $('.navbar-brand').html('<img src="./assets/img/dark-logo.svg" alt="logo"/>');
             }
-
         }
         else {
             $('.header-top').removeClass('fixed');
