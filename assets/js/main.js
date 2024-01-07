@@ -1,6 +1,20 @@
 $(function () {
+    var pathname = window.location.pathname;
+    $(window).scroll(function () {
+        if ($(window).scrollTop() >= 50) {
+            $('.header-top').addClass('fixed');
+            if (pathname === "/" && pathname === "index.php" && pathname === "" && pathname === "investors.php" && pathname === "about-us") {
+                $('.navbar-brand').html('<img src="./assets/img/dark-logo.svg" alt="logo"/>');
+            }
 
-
+        }
+        else {
+            $('.header-top').removeClass('fixed');
+            if (pathname === "/" && pathname === "index.php" && pathname === "" && pathname === "investors.php" && pathname === "about-us") {
+                $('.navbar-brand').html('<img src="./assets/img/light-logo.svg" alt="logo"/>');
+            }
+        }
+    });
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
         iframe: {

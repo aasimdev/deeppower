@@ -57,7 +57,7 @@
             </div>
 
             <div class="footer-colinks">
-                <p>© 2023 DeepPower, Inc.</p>
+                <p>© 2024 DeepPower, Inc.</p>
                 <a href="privacy-policy.php">Privacy Policy</a>
                 <a href="terms-of-use.php">Terms of Use</a>
             </div>
