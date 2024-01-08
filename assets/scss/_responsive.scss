@@ -168,9 +168,7 @@
         padding-bottom: 0;
     }
 
-    .contact {
-        padding: 64px 0;
-    }
+ 
 }
 
 @media (max-width: 1200px) {
@@ -249,7 +247,7 @@
         /* Note: backdrop-filter has minimal browser support */
         background: #001014;
         position: absolute;
-        top: 82px;
+        top: 69px;
         width: 100%;
         // border-radius: 9px;
         left: 0;
@@ -475,7 +473,9 @@
     .ou-team-member {
         margin-bottom: 30px;
     }
-
+    .header-top.fixed .navbar .navbar-nav .nav-link {
+        color: #fff;
+    }
 }
 
 @media (max-width: 767px) {
@@ -788,7 +788,7 @@
         flex-direction: column-reverse;
     }
     .pageBanner {
-        margin-top: 15px;
+        margin-top: 160px;
     }
 
     .pageBanner h1 {
@@ -953,9 +953,11 @@
     }
 
     .newsPage {
-        padding: 20px 0 65px;
+        padding: 160px 0 65px;
     }
-
+    .hnewslesster.podcastt, .investor, .aboutBanner  {
+        padding-top: 160px;
+    }
     .newsPage-title {
         font-size: 40px;
     }
@@ -1152,9 +1154,6 @@
         font-size: 30px;
     }
 
-    .contact {
-        padding: 25px 0 95px;
-    }
 
     .contact-title h1 {
         font-size: 30px;
