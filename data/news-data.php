@@ -3,6 +3,53 @@
 
 $news = [
     [
+        'id' => "93",
+        'title' => "DeepPower CEO Andrew Van Noy Discusses Practical Data Driven Energy Choices with Mayor of Rockwall, Texas",
+        'date' => "January 10, 2024",
+        'excerpt' => "DeepPower, Inc., the developer of XDrillTM, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent company podcast CEO Andrew Van Noy spoke with Trace Johannesen, the Mayor of Rockwall, Texas […]
+        ",
+        'description' => [
+            [
+                "<p>
+                Mayor Trace Johannesen describes the Texas energy grid currently in use and how emerging green energy sources must be based on data and reliability.  
+                <p>"
+            ],
+            [
+                "<p>LEHI, Utah, January 10, 2024 (GLOBE NEWSWIRE) — DeepPower, Inc., the developer of XDrillTM, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent company podcast CEO Andrew Van Noy spoke with Trace Johannesen, the Mayor of Rockwall, Texas.  <p>"
+            ],
+            [
+                "<p>Trace Johannesen was a fourth generation U.S. Marine before joining the business sector in various senior client services and advisory roles. In 2018, he joined the Rockwell City Council. After serving as Mayor Pro Tem for a year, he was elected Mayor of Rockwell in May 2023.  
+                <p>"
+            ],
+            [
+                "<p>The podcast discussion highlights the need to balance the use of fossil fuels with cleaner methods of producing energy. Mayor Johannesen mentioned the importance of evaluating whether a source is sustainable and reliable based on the data available.   <p>"
+            ],
+            [
+                "<p>Mayor Johannesen stated: “There is loud narrative in the media for carbon zero. It seems to me that there is a singular focus on renewables like solar and wind, which have their virtues and their place as part of a matrix of energy sources.”    <p>"
+            ],
+            [
+                "<p>A discussion followed about the practicality and reliability of any form of energy. Mayor Johannesen finds himself asking questions about how much energy a method can produce and how reliable that source is for the residents who are dependent on it.   <p>"
+            ],
+            [
+                "<p>Mayor Johannesen also said that there are also “physics problems to solve. What I mean by that is that each time energy changes state, there’s this loss. If you’re transmitting energy long distances, again you have loss.”   <p>"
+            ],
+            [
+                "<p>Things like these physics considerations can make some forms of renewables impractical. He feels that a mixture including nuclear, geothermal and various technology is best. The data should drive choices toward whatever choices are clean, practical and reliable based on facts rather than a narrative pushing for carbon. <p>"
+            ],
+            [
+                "<p>One thing to note is that Rockwell does not govern any of the providers who operate under the power grid in Texas, so Mayor Johannesen has no control over the decisions about energy sources. His priorities are, therefore, more focused on other factors that affect living in his community.  <p>"
+            ],
+            [
+                "<p>“I was appreciative of my discussion with Mayor Johannesen during the podcast,” said Andrew Van Noy, CEO of DeepPower. “It was educational to understand that while some mayors can influence energy choices, not all have that ability. His willingness to still want to learn and consider energy options was welcomed.”  <p>"
+            ],
+            [
+                "<p>This podcast can be viewed at <a href=\"https://deeppower.com/single-video.php?id=Yb4i0DY-JRg\" target=\"_balnk\">https://deeppower.com/single-video.php?id=Yb4i0DY-JRg</a>
+                <p>"
+            ]
+        ],
+        'category' => "company"
+    ],
+    [
         'id' => "92",
         'title' => "DeepPower CEO Andrew Van Noy Discusses Clean Energy and Non-Partisan Politics with Nebraska State Senator ",
         'date' => "November 16, 2023",

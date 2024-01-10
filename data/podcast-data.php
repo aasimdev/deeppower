@@ -22,7 +22,13 @@ $videos = [
         'category' => "news-commentary",
         'scope' => "public"
     ],
-  
+    [
+        'title' => "Mayor Trace Johannessen - Rockwall, Texas",
+        'videoID' => "Yb4i0DY-JRg",
+        'date' => "January 10, 2024",
+        'category' => "ceo-podcast",
+        'scope' => "public"
+    ],
     [
         'title' => "Mayor Nathan Robertson - Ely Nevada",
         'videoID' => "Pb62c3rHkF8",
@@ -58,13 +64,7 @@ $videos = [
         'category' => "ceo-podcast",
         'scope' => "private"
     ],
-    [
-        'title' => "Mayor Trace Johannessen - Rockwall, Texas",
-        'videoID' => "Yb4i0DY-JRg",
-        'date' => "October 2, 2023",
-        'category' => "ceo-podcast",
-        'scope' => "private"
-    ],
+   
     [
         'title' => "Konstantine Anthony - Mayor of Burbank",
         'videoID' => "0FngluihQ68",
