@@ -6,7 +6,7 @@ $news = [
         'id' => "93",
         'title' => "DeepPower CEO Andrew Van Noy Discusses Practical Data Driven Energy Choices with Mayor of Rockwall, Texas",
         'date' => "January 10, 2024",
-        'excerpt' => "DeepPower, Inc., the developer of XDrillTM, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent company podcast CEO Andrew Van Noy spoke with Trace Johannesen, the Mayor of Rockwall, Texas […]
+        'excerpt' => "DeepPower, Inc., the developer of XDrill<sup>TM</sup>, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent company podcast CEO Andrew Van Noy spoke with Trace Johannesen, the Mayor of Rockwall, Texas […]
         ",
         'description' => [
             [
@@ -15,7 +15,7 @@ $news = [
                 <p>"
             ],
             [
-                "<p>LEHI, Utah, January 10, 2024 (GLOBE NEWSWIRE) — DeepPower, Inc., the developer of XDrillTM, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent company podcast CEO Andrew Van Noy spoke with Trace Johannesen, the Mayor of Rockwall, Texas.  <p>"
+                "<p>LEHI, Utah, January 10, 2024 (GLOBE NEWSWIRE) — DeepPower, Inc., the developer of XDrill<sup>TM</sup>, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean energy, today announced that in a recent company podcast CEO Andrew Van Noy spoke with Trace Johannesen, the Mayor of Rockwall, Texas.  <p>"
             ],
             [
                 "<p>Trace Johannesen was a fourth generation U.S. Marine before joining the business sector in various senior client services and advisory roles. In 2018, he joined the Rockwell City Council. After serving as Mayor Pro Tem for a year, he was elected Mayor of Rockwell in May 2023.  

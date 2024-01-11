@@ -159,6 +159,48 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "Ready, Aim, Fire ",
+        'videoID' => "X-mLpHcVrNg",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Smart Choice",
+        'videoID' => "rXykD34mQAM",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Shine a Light",
+        'videoID' => "nWiskMmQLVg",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The future is now!",
+        'videoID' => "Iaog0yADc0E",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Did you know....",
+        'videoID' => "86O6rakLI6k",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "From the bottom to the top....",
+        'videoID' => "eGcixuZ1URE",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Powerhouse of Progres",
+        'videoID' => "AKP_1vMdboc",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
         'title' => "Affordable Energy Made Easy",
         'videoID' => "xR5tg0Pnuu4",
         'category' => "short-video",
