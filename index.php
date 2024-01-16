@@ -12,14 +12,18 @@ include('header.php'); ?>
 
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img src="./assets/img/hero-1.jpg" class="d-block w-100" alt="hero">
+                <img src="./assets/img/hero-1.png" class="d-none d-md-block w-100" alt="hero">
+                <img src="./assets/img/hero-1-mobile-sm.png" class="d-md-none w-100" alt="hero">
             </div>
+            <!-- <div class="carousel-item active">
+                <img src="./assets/img/hero-1.jpg" class="d-block w-100" alt="hero">
+            </div>-->
             <div class="carousel-item">
                 <img src="./assets/img/hero-2.jpg" class="d-block w-100" alt="hero">
             </div>
             <div class="carousel-item">
                 <img src="./assets/img/hero-3.jpg" class="d-block w-100" alt="hero">
-            </div>
+            </div> 
         </div>
     </div>
     <div class="banner-content">
