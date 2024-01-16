@@ -477,6 +477,13 @@
     .header-top.fixed .navbar .navbar-nav .nav-link {
         color: #fff;
     }
+    .bannerText p{
+        max-width: 355px;
+    }
+    .bannerText h1{
+        max-width: 345px;
+    }
+    
 }
 
 @media (max-width: 767px) {
