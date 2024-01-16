@@ -33,7 +33,7 @@ include('header.php'); ?>
                     <div class="bannerText">
                         <h1>Unlimited Clean Energy Below Our Feet</h1>
                         <p>DeepPower is developing XDrill<sup>TM</sup>, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean heat energy, which can be used to produce unlimited, low-cost, green electricity anywhere in the world. </p>
-                        <a href="deeppower-drilling-technology.php" class="theme-btn d-none d-sm-inline-flex">
+                        <a href="deeppower-drilling-technology.php" class="theme-btn d-inline-flex">
                             <span>Learn More</span>
                             <svg width="10" height="25" viewBox="0 0 10 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0 14.1753L6.29787 2.19072L7.53192 0L4.89362 11.512L10 11.5979L0 25L0.553192 23.5395L4.42553 14.1753H0Z" fill="#091113" />
@@ -60,7 +60,7 @@ include('header.php'); ?>
                 </div>
             </div>
 
-            <div class="mobile-action d-sm-none">
+            <!-- <div class="mobile-action d-sm-none">
                 <a href="deeppower-drilling-technology.php" class="theme-btn">
                     <span>Learn More</span>
                     <svg width="10" height="25" viewBox="0 0 10 25" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -70,7 +70,7 @@ include('header.php'); ?>
                 <div class="carousel-indicators justify-content-center" id="carousel-indicators2">
 
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
