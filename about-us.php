@@ -20,7 +20,9 @@ include('header.php'); ?>
 <section class="marketC aboutMarket">
     <div class="container">
         <div class="marketC__content">
-            <p>The Earth’s molten core is as hot as the Sun as evidenced by the
+            <p>Deep Power is developing XDrill<sup>TM</sup>, a breakthrough geothermal drilling technology to access the Earth’s unlimited source of clean heat energy, which can be used to produce unlimited, low-cost green electricity anywhere in the world. <br><br>The Earth’s molten core is as hot as the Sun and harnessing just 0.1% of that heat energy can power humanity for 2 million years. Previous generations of drilling technology cannot go deep enough to make geothermal cost effective. We are developing XDrill<sup>TM</sup> to boldly go where no humans have gone before. The deeper we go the more energy we can unleash. <br><br>Unlike large area solar and wind farms, a 9-inch hole by 5 miles deep can produce the same amount of power as 320 acres of solar panels. Like a power plug into the Earth, we aim to provide every city, state, and country direct and independent access to this “holy grail” source of eternal green energy. </p>
+
+            <!-- <p>The Earth’s molten core is as hot as the Sun as evidenced by the
                 eruption of volcanos and geysers such as Old Faithful in Yellowstone
                 National Park. Harnessing just 0.1% of that heat energy can power
                 humanity for 2 million years. <br><br>
@@ -34,7 +36,7 @@ include('header.php'); ?>
                 panels. By plugging into this power deep within the Earth, we aim to
                 provide direct access to an unlimited source of constant heat energy
                 which can be used to produce low-cost green electricity anywhere in
-                the world </p>
+                the world </p> -->
         </div>
 
     </div>
