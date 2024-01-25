@@ -159,6 +159,83 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "X marks the spot and the X Drill will reach the spot!",
+        'videoID' => "sLD_YduITAI",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Time Is Now!",
+        'videoID' => "J1vpks5bRN8",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We've heard X marks the spot!",
+        'videoID' => "bbv3obfdacU",
+        'category' => "short-video",
+        'scope' => "public"
+    ], [
+        'title' => "Geothermal energy has been around for more than 10,000 years!",
+        'videoID' => "7UI6LYbPPv4",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Geothermal energy production can cut bills in half!",
+        'videoID' => "GsYf-7kmrC0",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "15 Billion Gallons of Hot Water?",
+        'videoID' => "xl41__VnkHc",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Lets take care of the planet. Starting... NOW!",
+        'videoID' => "7dbUMquyEXE",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Light pollution is a dark topic",
+        'videoID' => "rA3iuDocsqs",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Boring into the earth is far from boring!",
+        'videoID' => "D3xuHjSgVSo",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Using the superhot rock buried deep beneath the ground",
+        'videoID' => "t3jj1s40pjM",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The University of Oklahoma and DeepPower are the true pioneers of geothermal advancements.",
+        'videoID' => "ELtvtWVA5uE",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What's So Special About X",
+        'videoID' => "JueXspK3ByU",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Have you considered....",
+        'videoID' => "DBGYnUrWu4U",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
         'title' => "Ready, Aim, Fire ",
         'videoID' => "X-mLpHcVrNg",
         'category' => "short-video",
