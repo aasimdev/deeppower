@@ -18,12 +18,12 @@ include('header.php'); ?>
             <!-- <div class="carousel-item active">
                 <img src="./assets/img/hero-1.jpg" class="d-block w-100" alt="hero">
             </div>-->
-            <div class="carousel-item">
+            <!-- <div class="carousel-item">
                 <img src="./assets/img/hero-2.jpg" class="d-block w-100" alt="hero">
             </div>
             <div class="carousel-item">
                 <img src="./assets/img/hero-3.jpg" class="d-block w-100" alt="hero">
-            </div> 
+            </div>  -->
         </div>
     </div>
     <div class="banner-content">
