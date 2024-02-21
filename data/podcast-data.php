@@ -1,6 +1,138 @@
 <?php
 $videos = [
     [
+        'title' => "Turning Earth's heat into electricity:",
+        'videoID' => "uglYKK6o21I",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "An unlimited source of energy is beneath our feet",
+        'videoID' => "cRsbDggqnKQ",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Diving deep into the Earth's power to light up our future!",
+        'videoID' => "QGQiKhYBD6I",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Unlocking the Earth's Warmth",
+        'videoID' => "mfUtGcMTb10",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "A clean, constant power source is beneath our feet!",
+        'videoID' => "RJlR56V1G2Q",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Boise's Geothermal Glow: Powering a Green Future.",
+        'videoID' => "-1yiEWcUidY",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Iceland's Geothermal Mastery: Harnessing Volcanic Vigor for Sustainable Prosperity.",
+        'videoID' => "5Gg5SVWhCyA",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Save money, while saving the planet!",
+        'videoID' => "tqmp5NtXyyU",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Geothermal energy can be accessed almost anywhere on the planet",
+        'videoID' => "8akAFK1XBM4",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "A seamless transition into unlimited, clean power is possible with earth's geothermal energy!",
+        'videoID' => "8c-OkX7OjWk",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The future is set up in today's efforts.",
+        'videoID' => "lk5YApvJsdA",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "A Big Win for California",
+        'videoID' => "Y54YfFLZnqY",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Let's look into future Europe",
+        'videoID' => "9gTwCg98LVk",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Did you know that there's electrical power beneath our feet?",
+        'videoID' => "oOSQjLqGBww",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Budget-Friendly Green Solutions",
+        'videoID' => "GfxgMdLDNwQ",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "What Climate-Friendly Really Looks Like",
+        'videoID' => "wMXMi3j8E2w",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "1 in Every 4 Watts You Use Comes from THIS.",
+        'videoID' => "dxrfWrJZURQ",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Growing Gigawatts From the Ground-Up",
+        'videoID' => "2CPlvP_t0zw",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Unlimited energy is at our fingertips!",
+        'videoID' => "f_ASblfIqPc",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Check out this lucrative opportunity!",
+        'videoID' => "5iG9xuaoOAs",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The geothermal industry is a great place to invest.",
+        'videoID' => "rHIXTDI04XE",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "There is no better time than now to understand the potential of geothermal energy production!",
+        'videoID' => "rbUkcK3vx8E",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
         'title' => "The Salton Sea has even more lithium than previously thought",
         'videoID' => "wfWm_fqv1so",
         'date' => "November 30, 2023",
