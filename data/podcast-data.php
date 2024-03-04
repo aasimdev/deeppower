@@ -1,6 +1,13 @@
 <?php
 $videos = [
     [
+        'title' => "DeepPower News Commentary",
+        'videoID' => "2frrlEEDyG4",
+        'date' => "March 1, 2024",
+        'category' => "news-commentary",
+        'scope' => "public"
+    ],
+    [
         'title' => "Turning Earth's heat into electricity:",
         'videoID' => "uglYKK6o21I",
         'category' => "short-video",
